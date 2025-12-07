@@ -33,5 +33,4 @@ Since this is a `.sb3` file, you need the Scratch environment:
 2.  Click **File** > **Load from your computer**.
 3.  Select `Monkey_Catcher.sb3` from this repository.
 
-## 👨‍💻 Author
-**Abdallah Salah ELsheikh**
+
