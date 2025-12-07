@@ -31,6 +31,6 @@ https://github.com/user-attachments/assets/7a2c296a-8174-4d18-8b0b-545627f6f9e4
 Since this is a `.sb3` file, you need the Scratch environment:
 1.  Go to [Scratch Online Editor](https://scratch.mit.edu/projects/editor/).
 2.  Click **File** > **Load from your computer**.
-3.  Select `Monkey_Catcher.sb3` from this repository.
+3.  Select `Logic_Building_Block.sb3` from this repository.
 
 
