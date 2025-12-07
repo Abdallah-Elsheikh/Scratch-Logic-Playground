@@ -6,13 +6,11 @@ This is a fun interactive game built with **Scratch 3.0**. The player controls a
 
 ## 🎮 Game Demo
 
-<div align="center">
-  <video src="demo.mp4" width="100%" controls autoplay muted></video>
-  <br>
-  <p>
-    <em>If the video doesn't play, <a href="demo.mp4">click here to watch</a>.</em>
-  </p>
-</div>
+
+
+https://github.com/user-attachments/assets/7a2c296a-8174-4d18-8b0b-545627f6f9e4
+
+
 
 ---
 
